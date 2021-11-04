@@ -33,4 +33,4 @@ Hello, my name is Fernando Santos and i have 17 years, i`m student of programmin
 <br>
 
 # Status
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={nandxla}&theme=blue-green">
+[![nandxla GitHub stats](https://github-readme-stats.vercel.app/api?username=nandxla&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
