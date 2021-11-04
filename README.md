@@ -4,7 +4,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nandxla)
 
 # About me 👋 
-Hello, my name is Fernando Santos and i have 17 years, i`m student of programming, actualy my main languages is python and golang, for DS/ML, cybersecurity and Backend, but i love tecnologie in general, and I always try to learn a little about other areas. Now I'm starting to generate however for the technology area in my networks.
+Hello, my name is Fernando Santos and i have 17 years, i`m student of programming, actualy my main languages is python and javascript, for DS/ML, cybersecurity and Backend, but i love tecnologie in general, and I always try to learn a little about other areas. Now I'm starting to generate however for the technology area in my networks.
 
 
 <br>
@@ -23,7 +23,6 @@ Hello, my name is Fernando Santos and i have 17 years, i`m student of programmin
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
