@@ -4,7 +4,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nandxla)
 
 # About me 👋 
-Hello, my name is Fernando Santos and i have 17 years, i`m student of programming, actualy my main languages is Python and Java, for DS/ML, cybersecurity and web developer but i love tecnologie in general, and I always try to learn a little about other areas. Now I'm starting to generate however for the technology area in my networks.
+Hello, my name is Fernando Santos and i have 17 years, i`m student of programming, actualy my main languages is Python, Java and Dart, for DS/ML, cybersecurity and Full Stack developer but i love tecnologie in general, and I always try to learn a little about other areas. Now I'm starting to generate however for the technology area in my networks.
 
 
 <br>
