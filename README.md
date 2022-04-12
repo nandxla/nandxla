@@ -1,19 +1,28 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nandxla)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8pmQf4PfGaPIH7BkOCAOwA)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/nandxla)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nandxla)
-
-# About me 👋 
-Hello, my name is Fernando Santos and i have 18 years, i`m student of programming and math, actualy my main languages is Python and Java, for DS/ML, cybersecurity and other developer areas, but i love tecnologie in general. Now I'm starting to generate however for the technology area in my networks.
-
-<br>
-
-# Study 🔗
-- 📚 <b>books i recomend</b>: <a href="pages/livros.md">Click Here</a>
-- ▶️ <b>courses i recomend</b>: <a href="pages/cursos.md">Click Here</a>
 
 
-<br>
+<div>
 
-# Status
-[![nandxla GitHub stats](https://github-readme-stats.vercel.app/api?username=nandxla&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# About me 👨‍💻
+
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" align="right" max-width="400px" width="400px">
+
+<div align="left">
+    Hello, my name is Fernando, I am currently a student of computing and mathematics. My main experiences are with Python, Java and Javascript languages.
+    Currently the focus is AI, but I never stop studying other areas such as development, security and QA 🚀. 
+</div>
+
+</div>
+
+# Social Networks 🌐
+Here are my social networks, where I usually make some content for other programmers.
+
+<p>
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/nandxla/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
