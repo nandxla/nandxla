@@ -1,6 +1,6 @@
 
 
-<div>
+<div display="block">
 
 # About me 👨‍💻
 
