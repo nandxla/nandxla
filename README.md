@@ -3,10 +3,10 @@
 I am a Data Science student and I love technology, I seek to learn different technologies and always update myself. 
 
 
-- <a link="https://medium.com/@nandxla">📜 Medium</a>
-- <a link="https://www.linkedin.com/in/santosnando/">📌 Linkedin</a>
+- <a href="https://medium.com/@nandxla">📜 Medium</a>
+- <a href="https://www.linkedin.com/in/santosnando/">📌 Linkedin</a>
 
-<center>
+<hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -21,5 +21,3 @@ I am a Data Science student and I love technology, I seek to learn different tec
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</center>
