@@ -1,6 +1,10 @@
-# Hi, i am Fernando! 👋
+👋 Hi there! I'm Fernando Santos, a Math enthusiast and Data Science student at UFF.
 
-I am a Data Science student and I love technology, I seek to learn different technologies and always update myself. 
+📚 Currently pursuing my degree in Mathematics at the University Federal Fluminense (UFF) while diving deep into the exciting world of Data Science.
+
+💡 I'm passionate about leveraging mathematical foundations to unlock insights from data. Excited to share and collaborate on data-driven projects.
+
+🌐 Let's connect and explore the intersection of Math and Data Science together!
 
 
 - <a href="https://medium.com/@nandxla">📜 Medium</a>
