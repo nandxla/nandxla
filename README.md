@@ -1,19 +1,22 @@
-👋 Hi there! I'm Fernando Santos, a Math enthusiast and Data Science student at UFF.
+# 👋 Hi there! I'm Fernando Vieira
 
-📚 Currently pursuing my degree in Mathematics at the University Federal Fluminense (UFF) while diving deep into the exciting world of Data Science.
+Hello, my name is Fernando. I am a student of Mathematics and Data Science, and I currently work at one of the largest education companies in Brazil, where I create analyses, models, automations, and dashboards.
 
-💡 I'm passionate about leveraging mathematical foundations to unlock insights from data. Excited to share and collaborate on data-driven projects.
-
-🌐 Let's connect and explore the intersection of Math and Data Science together!
-
-
-- <a href="https://medium.com/@nandxla">📜 Medium</a>
-- <a href="https://www.linkedin.com/in/santosnando/">📌 Linkedin</a>
+Today, I specialize in Python and R. Besides using them for Data Science and AI, I develop web apps with Django, Flask, and FastAPI, and I explore areas of data engineering.
 
 <hr>
 
+## Languages, Libs and Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tensor Flow](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Fast API](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
